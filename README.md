@@ -1,2 +1,2 @@
 # travel-blog
-RESTful service with details
+Travel blog demo
